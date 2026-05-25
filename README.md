@@ -2,7 +2,18 @@
 
 A free, open-source health tracking system for senior cats (and adaptable for dogs).
 
-Built from real-world experience caring for **Alice**, an 18-year-old cat with CKD and hyperthyroidism — managed at home with vet guidance, daily logs, and a lot of love.
+---
+
+## Why This Exists
+
+This tracker was built for **Alice** — a grey and brown tabby who turned 18 on March 31, 2026, and is managing CKD and hyperthyroidism at home with vet guidance, sub-Q fluids, and daily monitoring.
+
+Caring for her pushed us to build something we wished had existed sooner: a structured, printable system for tracking everything that matters when a senior pet's health is complex and the stakes are high.
+
+We're sharing it free so other senior cat owners don't have to piece it together from scratch the way we did.
+
+**If Alice's story resonates with you — or you'd like to support her ongoing care — her fundraiser is here:**
+**[Alice the Wonder Cat — Senior Care Fund](https://gofund.me/850a82747)**
 
 ---
 
@@ -44,14 +55,6 @@ Built from real-world experience caring for **Alice**, an 18-year-old cat with C
 The `example/` folder contains a complete tracker based on Alice — an 18-year-old cat with dual CKD + hyperthyroidism diagnoses, managed at home with sub-Q fluids, Phos-Bind, B12 injections, and methimazole.
 
 Her weight has been stable at 8.52 lbs since November 2024 — a real win for a cat her age with her conditions.
-
----
-
-## About This Project
-
-This tracker was created by Jenni Nexus as part of Alice's care fund. If it helps you care for your own senior pet, that's the whole point.
-
-If you'd like to support Alice's ongoing care: [Alice's GoFundMe](https://www.gofundme.com) *(link)*
 
 ---
 
